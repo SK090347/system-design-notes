@@ -33,3 +33,7 @@ Light guidelines in [CONTRIBUTING.md](./CONTRIBUTING.md). Issues and PRs welcome
 ## License
 
 MIT © Sumit Kumar Ta
+
+## License
+
+Documentation licensed under [CC BY 4.0](./LICENSE).
